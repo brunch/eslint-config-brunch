@@ -18,5 +18,8 @@
     "es2015",
     "node"
   ],
+  "peerDependencies": {
+    "eslint": ">= 3.12.2"
+  },
   "homepage": "https://github.com/brunch/eslint-config-brunch#readme"
 }
