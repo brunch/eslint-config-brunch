@@ -47,9 +47,6 @@ module.exports = {
     "no-iterator": 2,
     "no-labels": 2,
     "no-lone-blocks": 2,
-    "no-magic-numbers": [1, {
-      "ignore": [-1, 0, 1, 2, 3, 4, 5, 6, 7, 8],
-    }],
     "no-multi-spaces": 2,
     "no-multi-str": 2,
     "no-native-reassign": 2,
