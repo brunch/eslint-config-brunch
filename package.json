@@ -19,7 +19,7 @@
     "node"
   ],
   "peerDependencies": {
-    "eslint": "~4.3.0"
+    "eslint": "^4"
   },
   "homepage": "https://github.com/brunch/eslint-config-brunch#readme"
 }
