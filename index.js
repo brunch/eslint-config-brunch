@@ -1,13 +1,12 @@
 module.exports = {
   parserOptions: {
-    ecmaVersion: 6,
+    ecmaVersion: "2020",
   },
   env: {
     node: true,
     es6: true,
   },
   rules: {
-    "comma-dangle": [2, "always-multiline"],
     "no-debugger": 2,
     "no-cond-assign": 2,
     "no-constant-condition": 2,
@@ -92,8 +91,7 @@ module.exports = {
     "comma-style": 2,
     "computed-property-spacing": 2,
     "eol-last": 2,
-    "func-names": [2, "never"],
-    "func-style": [2, "expression"],
+    "func-names": [2, "as-needed"],
     "indent": [2, 2, {"SwitchCase": 1}],
     "key-spacing": 2,
     "keyword-spacing": 2,
