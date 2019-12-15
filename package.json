@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-brunch",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Shareable ESLint config for Brunch & plugins",
   "repository": "brunch/eslint-config-brunch",
   "author": "Brunch team (https://brunch.io)",
