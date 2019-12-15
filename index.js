@@ -5,6 +5,7 @@ module.exports = {
   env: {
     node: true,
     es6: true,
+    mocha: true
   },
   rules: {
     "no-debugger": 2,
@@ -91,7 +92,7 @@ module.exports = {
     "comma-style": 2,
     "computed-property-spacing": 2,
     "eol-last": 2,
-    "func-names": [2, "as-needed"],
+    "func-names": [2, "never"],
     "indent": [2, 2, {"SwitchCase": 1}],
     "key-spacing": 2,
     "keyword-spacing": 2,
