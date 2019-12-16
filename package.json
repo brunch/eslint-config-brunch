@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-brunch",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Shareable ESLint config for Brunch & plugins",
   "repository": "brunch/eslint-config-brunch",
   "author": "Brunch team (https://brunch.io)",
@@ -15,7 +15,7 @@
     "plugins",
     "ecosystem",
     "es6",
-    "es2015",
+    "es2020",
     "node"
   ],
   "homepage": "https://github.com/brunch/eslint-config-brunch#readme"
