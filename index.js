@@ -96,7 +96,7 @@ module.exports = {
     "indent": [2, 2, {"SwitchCase": 1}],
     "key-spacing": 2,
     "keyword-spacing": 2,
-    "linebreak-style": 2,
+    "linebreak-style": 1,
     "new-cap": 2,
     "new-parens": 2,
     "no-array-constructor": 2,
